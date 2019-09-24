@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import org.junit.Test;
+//import org.junit.Test;
 
 public class IteratorTest {
 	
-	@Test
+//	@Test
 	public void test01(){
 		List<String> al=new ArrayList<String>();
 		al.add("001");
@@ -26,7 +26,7 @@ public class IteratorTest {
 		System.out.println(al);
 	}
 	
-	@Test
+//	@Test
 	public void test02(){
 		List<String> al=new ArrayList<String>();
 		al.add("001");
@@ -43,7 +43,7 @@ public class IteratorTest {
 		System.out.println(al);
 	}
 	
-	@Test
+//	@Test
 	public void test03(){
 		List<String> al=new ArrayList<String>();
 		al.add("001");
@@ -58,7 +58,7 @@ public class IteratorTest {
 		System.out.println(al);
 	}
 	
-	@Test
+//	@Test
 	public void test04(){
 		List<String> al=new ArrayList<String>();
 		al.add("001");

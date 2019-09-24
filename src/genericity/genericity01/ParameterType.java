@@ -3,11 +3,11 @@ package genericity.genericity01;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.junit.Test;
+//import org.junit.Test;
 
 public class ParameterType {
 		
-	@Test
+//	@Test
 	public void test(){
 		List<Circle> circles = new ArrayList<Circle>();
 		Circle circle = new Circle();
